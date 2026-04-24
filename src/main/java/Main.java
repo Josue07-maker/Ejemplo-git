@@ -4,5 +4,7 @@ public class Main{
         System.out.println("Adios 2º DAM!");
 
         System.out.println("mnumero random: " + Math.random());
+        System.out.println("Hola desde la rama feature/cambio-saludo");
+
     }
 }
